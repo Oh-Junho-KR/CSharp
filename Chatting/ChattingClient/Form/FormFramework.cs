@@ -165,7 +165,7 @@ namespace ChattingClient
 
             switch (sMenu)
             {
-                case "Login":
+                case "User":
                     if (frmUser != null)
                     {
                         frmUser.Show();
