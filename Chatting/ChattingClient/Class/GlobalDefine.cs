@@ -1,5 +1,3 @@
-using System;
-
 namespace ChattingClient
 {
     public class GlobalDefine
